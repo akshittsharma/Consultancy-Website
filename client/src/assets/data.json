@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "title": "Sunset over the Ocean",
+      "image": "https://img.freepik.com/free-vector/gradient-tropical-sunset-background_52683-131844.jpg",
+      "description": "A beautiful sunset over the ocean with vibrant colors."
+    },
+    {
+      "id": 2,
+      "title": "Mountain Range",
+      "image": "https://img.freepik.com/free-photo/beautiful-shot-mountain-range-colorful-sky_181624-10879.jpg",
+      "description": "Snow-capped mountains under a clear blue sky."
+    },
+    {
+      "id": 3,
+      "title": "City Skyline",
+      "image": "https://img.freepik.com/free-photo/skyline-miami-at-night-usa_268835-470.jpg",
+      "description": "A bustling city skyline during the night."
+    },
+    {
+      "id": 4,
+      "title": "Forest Path",
+      "image": "https://img.freepik.com/free-photo/empty-pathway-through-green-forest_23-2147800975.jpg",
+      "description": "A serene path through a lush green forest."
+    },
+    {
+      "id": 5,
+      "title": "Desert Dunes",
+      "image": "https://img.freepik.com/free-photo/desert-dunes-waves-sand-sunset_1170-2911.jpg",
+      "description": "Rolling sand dunes in a vast desert."
+    },
+    {
+      "id": 6,
+      "title": "Tropical Beach",
+      "image": "https://img.freepik.com/free-photo/tropical-paradise-beach_74190-7506.jpg",
+      "description": "A pristine tropical beach with crystal clear water."
+    },
+    {
+      "id": 7,
+      "title": "Snowy Village",
+      "image": "https://img.freepik.com/free-photo/snow-covered-village-high-mountains_1150-13530.jpg",
+      "description": "A cozy village covered in snow."
+    },
+    {
+      "id": 8,
+      "title": "Lush Waterfall",
+      "image": "https://img.freepik.com/free-photo/view-famous-wailua-falls-with-lush-green-foliage-island-kauai-hawaii-usa_268835-1935.jpg",
+      "description": "A majestic waterfall in a lush forest."
+    },
+    {
+      "id": 9,
+      "title": "Golden Wheat Field",
+      "image": "https://img.freepik.com/free-photo/golden-wheat-field-against-blue-sky_1216-1270.jpg",
+      "description": "A golden wheat field under a bright sky."
+    },
+    {
+      "id": 10,
+      "title": "Vibrant Coral Reef",
+      "image": "https://static.vecteezy.com/system/resources/previews/026/809/499/non_2x/underwater-shot-of-a-vibrant-coral-reef-teeming-with-marine-life-generative-ai-photo.jpg",
+      "description": "A colorful coral reef teeming with marine life."
+    },
+    {
+      "id": 11,
+      "title": "Ancient Ruins",
+      "image": "https://img.freepik.com/free-photo/beautiful-shot-ancient-ruins-cloudy-sky-daylight_181624-31916.jpg",
+      "description": "Ancient ruins of a historic civilization."
+    },
+    {
+      "id": 12,
+      "title": "Canyon View",
+      "image": "https://img.freepik.com/free-photo/beautiful-shot-canyon-sunset_181624-26529.jpg",
+      "description": "A breathtaking view of a deep canyon."
+    }
+]
