@@ -1,14 +1,26 @@
-import React from 'react'
-import Header from './Components/Header';
+import React, { useState, useEffect } from "react";
+import Card from "./Card";
+import data from "./assets/data.json";
+import Header from "./Components/Header";
 
 const App = () => {
   return (
-    <div >
-      <Header />
-      <img src='image.png' alt='LOADING IMAGE...' ></img>
-      
-    </div>
-  )
-}
+    <>
+      <div>
+        <Header />
+      </div>
+      <img
+        src="image.jpg"
+        alt="IMAGE LOADING...."
+        className="w-[100vw] h-auto	"
+      ></img>
+      <div className="flex flex-wrap gap-5 justify-center">
+        {data.map((element) => (
+          <Card {...element}></Card>
+        ))}
+      </div>
+    </>
+  );
+};
 
 export default App;
