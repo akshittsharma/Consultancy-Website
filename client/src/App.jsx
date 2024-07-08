@@ -4,6 +4,14 @@ import data from "./assets/data.json";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
 
+import React,{useState, useEffect} from 'react';
+import Card from './Components/Card';
+import data from './assets/data.json'
+import Header from './Components/Header'
+
+
+
+
 const App = () => {
   return (
     <>
