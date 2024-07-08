@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import Card from "./Card";
 import data from "./assets/data.json";
 import Header from "./Components/Header";
+import Footer from "./Components/Footer";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
           <Card {...element}></Card>
         ))}
       </div>
+      <Footer />
     </>
   );
 };
