@@ -5,6 +5,8 @@ const App = () => {
   return (
     <div >
       <Header />
+      <img src='image.png' alt='LOADING IMAGE...' ></img>
+      
     </div>
   )
 }
