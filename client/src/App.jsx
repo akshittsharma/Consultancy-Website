@@ -1,7 +1,8 @@
 
 import React,{useState, useEffect} from 'react';
-import Card from './Card';
+import Card from './Components/Card';
 import data from './assets/data.json'
+import Header from './Components/Header'
 
 
 
@@ -13,11 +14,13 @@ const App = () => {
 
     <>
     
+ 
+    <Header/>
     <div className='flex flex-wrap gap-5 justify-center'>{data.map((element) => (<Card {...element}></Card>))}</div>
         
-        <div >
-        <Header/>
-        </div>
+    
+       
+       
     </>
 
 

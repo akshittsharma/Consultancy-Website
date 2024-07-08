@@ -11,7 +11,7 @@ const Header = () => {
   }
 
   return (
-    <nav className="bg-white border-gray-200 dark:bg-gray-500 dark:border-gray-700">
+    <nav className=" bg-white border-gray-200 dark:bg-gray-500 dark:border-gray-700 h-[6rem] relative">
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <a href="#" className="flex items-center space-x-3 rtl:space-x-reverse">
           <img
@@ -87,7 +87,7 @@ const Header = () => {
                 id="dropdownNavbar"
                 className={`${
                   !isDropdownOpen ? "" : "hidden"
-                }  z-10 font-normal bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600`}
+                } absolute z-10 font-normal bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700 dark:divide-gray-600`}
               >
                 <ul
                   className="py-2 text-sm text-gray-700 dark:text-gray-400"
